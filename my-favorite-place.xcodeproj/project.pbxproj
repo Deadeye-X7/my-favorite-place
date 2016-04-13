@@ -54,6 +54,9 @@
 		E6A127EF1CBE753B00D0ACD4 /* my-favorite-place */ = {
 			isa = PBXGroup;
 			children = (
+				E6A128041CBE779500D0ACD4 /* Controller */,
+				E6A128031CBE778400D0ACD4 /* View */,
+				E6A128021CBE777F00D0ACD4 /* Model */,
 				E6A127F01CBE753B00D0ACD4 /* AppDelegate.swift */,
 				E6A127F21CBE753B00D0ACD4 /* ViewController.swift */,
 				E6A127F41CBE753B00D0ACD4 /* Main.storyboard */,
@@ -62,6 +65,27 @@
 				E6A127FC1CBE753B00D0ACD4 /* Info.plist */,
 			);
 			path = "my-favorite-place";
+			sourceTree = "<group>";
+		};
+		E6A128021CBE777F00D0ACD4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		E6A128031CBE778400D0ACD4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		E6A128041CBE779500D0ACD4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controller;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
